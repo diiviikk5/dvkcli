@@ -1,5 +1,4 @@
-# dvkcli
-
+# dvkcli   , go get ur own pocket gpt lol
 A local-first AI terminal assistant powered by Ollama. Personal pocket AI for conversations, coding, and work.
 
 ![dvkcli screenshot](screenshot.png)
